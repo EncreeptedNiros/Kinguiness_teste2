@@ -38,7 +38,7 @@
     body
     {
         background-color: yellow;
-        /*background-image: url("background.jpg");*/
+        background-image: url("../0img/background.jpg");
         background-position: center;
     }
     div#titulo
